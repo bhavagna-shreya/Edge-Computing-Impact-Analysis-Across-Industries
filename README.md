@@ -31,9 +31,9 @@ edge-computing-impact-analysis/
 
 | Sector         | Use Case                       | Edge Advantage                                  |
 |----------------|----------------------------------|--------------------------------------------------|
-| **Retail**      | Smart checkout peak load         | ⏱️ Latency reduction up to **20%**              |
-| **Healthcare**  | Noisy environments & feedback    | 🧠 More stable engagement, reduced delay        |
-| **Manufacturing** | Cyberattack detection in IIoT    | 🔐 Latency drop from **450ms → 100ms**          |
+| **Retail**      | Smart checkout peak load         |  Latency reduction up to **20%**              |
+| **Healthcare**  | Noisy environments & feedback    | More stable engagement, reduced delay        |
+| **Manufacturing** | Cyberattack detection in IIoT    |  Latency drop from **450ms → 100ms**          |
 
 ---
 
